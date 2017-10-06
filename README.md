@@ -2,10 +2,11 @@
 A module for reactjs to format capacity of file.
 
 
-How to use?
+How to use? <br >
 import Capacity from 'react-capacity-file';
 
-In react component
+In react component <br />
 <Capacity value="value in byte" />
 
+<br />
 Thanks for use.
