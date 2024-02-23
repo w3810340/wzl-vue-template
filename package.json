@@ -1,9 +1,9 @@
 {
-  "name": "react-capacity-file",
+  "name": "wzl-vue-template",
   "version": "1.0.0",
   "description": "A module for reactjs to format capacity of file.",
   "main": "index.js",
-  "repository": "https://github.com/HongThaiPham/react-capacity-file.git",
+  "repository": "https://github.com/w3810340/wzl-vue-template.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
